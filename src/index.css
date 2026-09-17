@@ -1,0 +1,44 @@
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'Geist:Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://static.figma.com/font/Geist_wght__1') format('woff2');
+}
+@font-face {
+  font-family: 'Geist:Medium';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://static.figma.com/font/Geist_wght__1') format('woff2');
+}
+@font-face {
+  font-family: 'Geist:Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://static.figma.com/font/Geist_wght__1') format('woff2');
+}
+@font-face {
+  font-family: 'Geist:SemiBold';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://static.figma.com/font/Geist_wght__1') format('woff2');
+}
+@font-face {
+  font-family: 'Unbounded:Black';
+  font-style: normal;
+  font-weight: 900;
+  src: url('https://static.figma.com/font/Unbounded_wght__1') format('woff2');
+}
+@font-face {
+  font-family: 'Unbounded:Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://static.figma.com/font/Unbounded_wght__1') format('woff2');
+}
+@font-face {
+  font-family: 'Unbounded:ExtraBold';
+  font-style: normal;
+  font-weight: 800;
+  src: url('https://static.figma.com/font/Unbounded_wght__1') format('woff2');
+}

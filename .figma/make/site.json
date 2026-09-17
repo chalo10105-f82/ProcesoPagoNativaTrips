@@ -1,0 +1,10 @@
+{
+  "description": "Create precise pixel-perfect clones of designs for developers and designers, streamlining the development process and ensuring design fidelity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
